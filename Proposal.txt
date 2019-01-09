@@ -1,0 +1,19 @@
+Project Title: What Determines Traffic Accidents?
+Team Members: Erik Dubec, ZiAng Zhang, Yang Yang
+Project Description: Determine predictors of traffic
+   accidents. We will examine relationships between
+   number of traffic accidents and area, month, day, 
+   weather conditions, age of driver, gender of driver, etc
+Questions to Answer: Do these relationships exist, 
+   and if they do do they persist when varied against
+   each other.
+Data Sets to be Used: US Traffic Fatality Records (https://www.kaggle.com/usdot/nhtsa-traffic-fatalities)
+   UK Accidents 10 years history (https://www.kaggle.com/benoit72/uk-accidents-10-years-history-with-many-variables)
+Rough Breakdown of Tasks: 
+Clean up data and put in csvs
+Sample Data
+Group Data
+Calculate Correlation Between Columns
+Google API for lat/long data
+Construct plots and map plots
+Story-Telling (Applications)
