@@ -4,6 +4,22 @@ Erik Dubec
 Yang Yang
 ZiAng Zhang
 
+# ----------------------------------------------------------
+Questions to ask:
+1) # accidents vs. region
+(need # cars by region data)
+
+2) # accidents vs. weather
+(no need for other data as # cars and weather are independent)
+
+3) # accidents vs. weather per region
+(need weather by region data)
+
+4) # accidents vs. age range
+(need car registration by age group data)
+
+# ----------------------------------------------------------
+
 Found some possibly useful links:
 
 Licensed Drivers (US) by Sex and Age Group (1963 to 2016 data) in thousands
