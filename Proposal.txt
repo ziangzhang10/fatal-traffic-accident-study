@@ -7,6 +7,23 @@ Project Description: Determine predictors of traffic
 Questions to Answer: Do these relationships exist, 
    and if they do do they persist when varied against
    each other.
+
+1) # accidents vs. region
+(need # cars by region data)
+
+2) # accidents vs. weather
+(no need for other data as # cars and weather are independent)
+
+3) # accidents vs. weather per region
+(need weather by region data)
+
+4) # accidents vs. age range
+(need car registration by age group data)
+
+5) # accidents vs. time of the day
+(no further data needed at this point on pain of being less rigorous)
+
+
 Data Sets to be Used: US Traffic Fatality Records (https://www.kaggle.com/usdot/nhtsa-traffic-fatalities)
    UK Accidents 10 years history (https://www.kaggle.com/benoit72/uk-accidents-10-years-history-with-many-variables)
 Rough Breakdown of Tasks: 
