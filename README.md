@@ -18,6 +18,9 @@ Questions to ask:
 4) # accidents vs. age range
 (need car registration by age group data)
 
+5) # accidents vs. time of the day
+(no further data needed at this point on pain of being less rigorous)
+
 # ----------------------------------------------------------
 
 Found some possibly useful links:
