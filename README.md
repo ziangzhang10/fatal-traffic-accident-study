@@ -22,6 +22,16 @@ Questions to ask:
 (no further data needed at this point on pain of being less rigorous)
 
 # ----------------------------------------------------------
+Data needed:
+1) Traffic accidents/death data (check)
+
+2) Cars by region (by state)
+
+3) Weather by region
+
+4) Registration by age group
+
+# ----------------------------------------------------------
 
 Found some possibly useful links:
 
