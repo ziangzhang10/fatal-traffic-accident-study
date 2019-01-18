@@ -46,3 +46,12 @@ https://www.fhwa.dot.gov/policyinformation/statistics/2016/dv1c.cfm
 
 Past Weather?
 https://www.weather.gov/help-past-weather
+
+
+# -----------------------------------------------------------
+COLOR SCHEME:
+'lightcoral'
+'lightskyblue'
+'gold'
+
+These colors are pyplot built-in colors. No need for RGB values.
