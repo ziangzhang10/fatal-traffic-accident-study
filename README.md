@@ -5,6 +5,23 @@ Yang Yang
 ZiAng Zhang
 
 # ----------------------------------------------------------
+functions of .ipynb files:
+1) data_readin
+main flow, performs data reading in as well as several plots
+
+2) driver_states_clean
+obsolete
+
+3) driver_states_clean2
+plots # of accidents by state
+
+4) OtherData
+plots # accidents by age & time of the day
+
+5) weather_by_city
+sums up the weather of Houston for the duration of half a year
+
+# ----------------------------------------------------------
 Questions to ask:
 1) # accidents vs. region
 (need # cars by region data)
