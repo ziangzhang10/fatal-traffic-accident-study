@@ -9,16 +9,13 @@ functions of .ipynb files:
 1) data_readin
 main flow, performs data reading in as well as several plots
 
-2) driver_states_clean
-obsolete
-
-3) driver_states_clean2
+2) driver_states_clean2
 plots # of accidents by state
 
-4) OtherData
+3) other_data
 plots # accidents by age & time of the day
 
-5) weather_by_city
+4) weather_by_city
 sums up the weather of Houston for the duration of half a year
 
 # ----------------------------------------------------------
@@ -26,17 +23,16 @@ Questions to ask:
 1) # accidents vs. region
 (need # cars by region data)
 
-2) # accidents vs. weather
-(no need for other data as # cars and weather are independent)
-
-3) # accidents vs. weather per region
-(need weather by region data)
-
-4) # accidents vs. age range
+2) # accidents vs. age range
 (need car registration by age group data)
 
-5) # accidents vs. time of the day
-(no further data needed at this point on pain of being less rigorous)
+3) # accidents vs. time:
+a. time of the year
+b. day of the week
+c. time of the day
+
+4) # accidents vs. weather
+(no need for other data as # cars and weather are independent)
 
 # ----------------------------------------------------------
 Data needed:
