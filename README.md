@@ -41,7 +41,7 @@ c. time of the day
 Data needed:
 1) Traffic accidents/death data (check)
 
-2) Cars by region (by state)
+2) Licenced drivers by region (by state)
 
 3) Weather by region
 
