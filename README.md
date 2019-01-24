@@ -6,16 +6,16 @@ ZiAng Zhang
 
 # ----------------------------------------------------------
 functions of .ipynb files:
-1) data_readin
+1) ziang.ipynb: data_readin
 main flow, performs data reading in as well as several plots
 
-2) driver_states_clean2
+2) yang.ipynb: driver_states_clean2
 plots # of accidents by state
 
-3) other_data
+3) erik: other_data
 plots # accidents by age & time of the day
 
-4) weather_by_city
+4) ziang_2: weather_by_city
 sums up the weather of Houston for the duration of half a year
 
 # ----------------------------------------------------------
@@ -48,18 +48,10 @@ Data needed:
 
 Found some possibly useful links:
 
-Licensed Drivers (US) by Sex and Age Group (1963 to 2016 data) in thousands
-https://www.fhwa.dot.gov/policyinformation/statistics/2016/dl220.cfm
-
-Licensed Drivers (US) by State (1949 to 2016 data) in thousands
-https://www.fhwa.dot.gov/policyinformation/statistics/2016/dl201.cfm
-
-Licensed Drivers, Vehicle Registrations, Resident Population (1960 to 2016 data) in millions
-https://www.fhwa.dot.gov/policyinformation/statistics/2016/dv1c.cfm
-
 Past Weather?
 https://www.weather.gov/help-past-weather
 
+Also used Google Maps and Open Weather Map
 
 # -----------------------------------------------------------
 COLOR SCHEME:
