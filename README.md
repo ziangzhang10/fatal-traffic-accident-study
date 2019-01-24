@@ -9,13 +9,16 @@ functions of .ipynb files:
 1) ziang.ipynb: data_readin
 main flow, performs data reading in as well as several plots
 
-2) yang.ipynb: driver_states_clean2
+2) yang_1.ipynb: driver_states_clean
+cleaned up drivers by state
+
+3) yang_2.ipynb: driver_states_clean2
 plots # of accidents by state
 
-3) erik: other_data
+4) erik: other_data
 plots # accidents by age & time of the day
 
-4) ziang_2: weather_by_city
+5) ziang_2: weather_by_city
 sums up the weather of Houston for the duration of half a year
 
 # ----------------------------------------------------------
